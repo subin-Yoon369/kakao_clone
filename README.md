@@ -1,2 +1,4 @@
 # kakao_clone
- training
+
+training
+kakao_desktop app clone
